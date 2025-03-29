@@ -2,7 +2,7 @@
 
 # Ventura Mendo
 
-👋 Hi there! I'm a software developer since 2017, passionate about building clean, and efficient solutions. I’m especially interested in web development and automations.
+👋 Hi there! I'm a Software Engineer since 2017, passionate about building clean, and efficient solutions. I’m especially interested in web development and automations.
 
 📫 You can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-venturamendo-blue?logo=logmein&logoColor=white)](https://www.linkedin.com/in/ventura-mendo/), [![Telegram](https://img.shields.io/badge/Telegram-@venturamen-2CA5E0?logo=telegram&logoColor=white)](https://t.me/venturamen) or just open a topic on [![GitHub](https://img.shields.io/badge/venturarome-discussions-689717?style=flat&logo=github)](https://github.com/venturarome).
 

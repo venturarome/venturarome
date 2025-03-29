@@ -1,6 +1,11 @@
 <!-- **venturarome/venturarome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Ventura Mendo
+<p align="center">
+    <img width="300px" alt="Ventura Mendo" src="./assets/readme-header-name.svg" />
+    <br>
+    <img width="520px" alt="Crafting software so you don't have to" src="./assets/readme-header-sentences.svg" />
+</p>
+
 
 👋 Hi there! I'm a Software Engineer since 2017, passionate about building clean, and efficient solutions. I’m especially interested in back-end development, design patterns, clean code, and automations.
 

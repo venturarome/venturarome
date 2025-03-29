@@ -52,6 +52,7 @@ gantt
     [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](#)
     [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
     [![Bruno](https://custom-icon-badges.demolab.com/badge/Bruno-3832A0?logo=bruno)](#)
+    [![Twig](https://custom-icon-badges.demolab.com/badge/Twig-8F5EA4?logo=twig)](https://twig.symfony.com/)
     [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](#)
     [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](#)
     [![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white)](#)
